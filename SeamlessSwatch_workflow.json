@@ -32,7 +32,7 @@
       "inputs": [{"name": "model", "type": "MODEL", "link": 0}],
       "outputs": [{"name": "MODEL", "type": "MODEL", "links": [1]}],
       "properties": {"Node name for S&R": "SeamlessTile"},
-      "widgets_values": []
+      "widgets_values": ["enable", "Make a copy"]
     },
     {
       "id": 3,
